@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DimitriMeimaridis
 - 👀 I’m interested in ML/AI and Automation
-- 📖 I’m currently a student at Drexel University
-- 🔗 Connect with me [here!](https://littlelink.dimitriservers.com)
+- 🔗 Connect with me [here!]()
 
 <!---
 DimitriMeimaridis/DimitriMeimaridis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
